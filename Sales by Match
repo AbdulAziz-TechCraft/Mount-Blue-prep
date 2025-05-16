@@ -15,7 +15,7 @@ sockMerchant has the following parameter(s):
 int n: the number of socks in the pile
 int ar[n]: the colors of each sock
 
-My Code:-\
+My Code:-
 def sockMerchant(n, ar):
     color_counts = {}
     for sock in ar:
